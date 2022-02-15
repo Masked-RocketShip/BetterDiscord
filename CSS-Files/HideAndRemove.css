@@ -14,7 +14,7 @@
 * ---------------------------
 */
 .stickerButton-3OEgwj {
-  display: none
+  display: none;
   visibility: hidden;
 }
  
@@ -25,7 +25,7 @@
 */
 .assetWrapper-3GNt0z {
   max-width: 48px;
-  max-height: 48px
+  max-height: 48px;
 }
 
 
@@ -50,7 +50,7 @@ span.roleColor-rz2vM0::after {
 * -------------------------------
 */
 #private-channels [href="/discovery"] {
-  display: none
+  display: none;
   visibility: hidden;
 }
 
@@ -60,7 +60,7 @@ span.roleColor-rz2vM0::after {
 * --------------------------------
 */
 #private-channels [href="/library"] {
-  display: none
+  display: none;
   visibility: hidden;
 }
 
@@ -70,7 +70,7 @@ span.roleColor-rz2vM0::after {
 * -------------------
 */
 #private-channels [href="/store"] {
-  display: none
+  display: none;
   visibility: hidden;
 }
 

@@ -5,6 +5,7 @@
 */
 .bannerPremium-2hSAwz .premiumIconWrapper-1A-UH5 {
   display: none;
+  visibility: hidden;
 }
 
 
@@ -14,6 +15,7 @@
 */
 .stickerButton-3OEgwj {
   display: none
+  visibility: hidden;
 }
  
 
@@ -49,6 +51,7 @@ span.roleColor-rz2vM0::after {
 */
 #private-channels [href="/discovery"] {
   display: none
+  visibility: hidden;
 }
 
 
@@ -58,6 +61,7 @@ span.roleColor-rz2vM0::after {
 */
 #private-channels [href="/library"] {
   display: none
+  visibility: hidden;
 }
 
 
@@ -67,6 +71,7 @@ span.roleColor-rz2vM0::after {
 */
 #private-channels [href="/store"] {
   display: none
+  visibility: hidden;
 }
 
 

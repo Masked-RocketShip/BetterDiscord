@@ -1,0 +1,11 @@
+:root {
+    --bg-image: url("https://raw.githubusercontent.com/Masked-RocketShip/BetterDiscord/main/Background/Black_And_White_Triangles.jpeg");
+}
+
+
+/*
+*   Hide & Remove
+* -------------------
+*/
+@import url("https://raw.githubusercontent.com/Masked-RocketShip/BetterDiscord/main/CSS-Files/HideAndRemove.css");
+

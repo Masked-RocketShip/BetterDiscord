@@ -1,5 +1,7 @@
 :root {
   --bg-image: url('https://raw.githubusercontent.com/Masked-RocketShip/BetterDiscord/main/Background/Black_And_White_Triangles.jpeg');
+  --HSL-server-icon-size: 45px;
+  --HSL-server-spacing: 10px;
   --rs-small-spacing: 2px;
   --rs-medium-spacing: 2px;
   --rs-large-spacing: 2px;
@@ -27,6 +29,13 @@
 * -------------------
 /*
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+
+/*
+* HorizonalServerList
+* -------------------
+*/
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+
 
 
 
